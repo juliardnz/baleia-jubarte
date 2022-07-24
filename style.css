@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background-color: #001653;
+}
+img{
+
+     width: 65%;
+     height: 65%;
+     margin: 3% 18%;
+    
+}
+h1{
+    text-align: center;
+    font-size: 215px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #208EBF;
+}
+h2{
+    text-align: center;
+    font-size: 85px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color:#fff;
+}
+
+p{
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #fff;
+}
+a{
+    text-align: justify;
+    font-size: 75px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #95D5E9;
+}
